@@ -1,11 +1,10 @@
 # Aurora
-__________
 
-**Welcome to EOS Auora**
+## **Welcome to EOS Auora**
 
-We are currently testing GIT COMMIT: a29e14b7
+We are currently testing  tag: DAWN-2018-05-16
 
-The PROTOCOL VERSION used for this launch is: 0xD34D
+The PROTOCOL VERSION used for this launch is: 0xB33F
 
 The GENESIS used is : 
 https://raw.githubusercontent.com/EOSArgentina/aurora/master/genesis.json
@@ -26,6 +25,4 @@ We will be using this Telegram channel to coordinate everything Aurora related:
 https://t.me/eosaurora_testnet
 
 
-—-----------------
 You can ping us anytime, we will try to be available most of the time!
-—-----------------
