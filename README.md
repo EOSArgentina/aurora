@@ -2,9 +2,7 @@
 
 ## **Welcome to EOS Auora**
 
-We are currently testing  tag: DAWN-2018-05-16
-
-The PROTOCOL VERSION used for this launch is: 0xB33F
+We change with every build the network version and the tag, please check in our telegram group
 
 The GENESIS used is : 
 https://raw.githubusercontent.com/EOSArgentina/aurora/master/genesis.json
